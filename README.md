@@ -1,6 +1,6 @@
 # PhaseShift
 
-![PhaseShiftiOSSDKCoverImage](phase-shift-ios-sdk-cover.png)
+![PhaseShiftiOSSDKCoverImage](https://github.com/egzonpllana/phaseshift-ios/blob/main/%20phase-shift-ios-sdk-cover.png)
 
 PhaseShift is a lightweight Swift Package providing elegant modal presentation with custom phase shift transition animations. The modal smoothly transitions from a source frame (e.g., a tapped item) to full screen, and reverses the animation when dismissing.
 
