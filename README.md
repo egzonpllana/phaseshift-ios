@@ -11,6 +11,12 @@ PhaseShift is a lightweight Swift Package providing elegant modal presentation w
     <img src="https://img.shields.io/badge/iOS-16.0%2B-blue">
 </p>
 
+## Preview
+
+<p align="center">
+    <img src="https://github.com/egzonpllana/phaseshift-ios/blob/main/phase-shift-ios-sdk-preview.gif" width="600">
+</p>
+
 #### Elegant and type-safe API
 
 ```swift
